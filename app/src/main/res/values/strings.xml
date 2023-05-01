@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Alarmer</string>
+    <string name="add_new_alarm">Add new alarm</string>
+    <string name="group_name">Latin Developers</string>
+</resources>

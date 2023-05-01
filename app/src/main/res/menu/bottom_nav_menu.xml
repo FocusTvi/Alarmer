@@ -1,0 +1,14 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_alarms"
+        android:icon="@drawable/ic_baseline_alarm_24"
+        android:title="Alarms" />
+    <item
+        android:id="@+id/nav_stopwatcher"
+        android:icon="@drawable/ic_baseline_timer_24"
+        android:title="Stopwatcher" />
+    <item
+        android:id="@+id/nav_timer"
+        android:icon="@drawable/ic_baseline_timelapse_24"
+        android:title="Timer" />
+</menu>
